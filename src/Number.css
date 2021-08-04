@@ -11,10 +11,12 @@
 .numbers button{
   margin-top: 5px;
   width: 7rem;
+   color: #85144b;
+   font-size: 2.5rem;
   height: 4rem;
-  font-size: large;
+  
 }
 .numbers button:hover{
-  background-color: darkviolet;
+  background-color: rgb(255, 20, 40);
   color: white;
 }

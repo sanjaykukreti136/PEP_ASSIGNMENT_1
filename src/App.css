@@ -8,10 +8,10 @@
 .main{
   width: 25rem;
   height: 34rem;
-  background-color: #350059;
-background-image: url("https://www.transparenttextures.com/patterns/fabric-of-squares.png");
+  background-color: #030005;
+/* background-image: url("https://www.transparenttextures.com/patterns/fabric-of-squares.png"); */
   margin-top: 4rem;
-  border: 2px solid black;
+  border: 2px solid rgb(255, 255, 255);
 }
 
 

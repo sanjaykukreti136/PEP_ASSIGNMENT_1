@@ -7,10 +7,12 @@
   justify-content: space-evenly;
 }
 .operator button {
-  border-radius: 14%;
+  
   margin-top: 10px;
-  width: 6rem;
+  width: 5rem;
   height: 4rem;
+  background-color: gray;
+  color: #FFDC00
   
 }
 .plus{
